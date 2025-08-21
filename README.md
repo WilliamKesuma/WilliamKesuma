@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="1000" />
 </p>
 
-<p align="center">
 # I’m William 👋  
-<p align="center">
   
 🎓 Information Systems for Business student @ Universitas Ciputra | Apple Developer Academy 2025 Cohort  
 
