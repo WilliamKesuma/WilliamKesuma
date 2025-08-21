@@ -46,10 +46,10 @@
 ---
 
 ### 🌐 Connect with Me  
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/williamskesuma/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM">
+<a href="https://instagram.com/William.Kesuma">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
 </a>
  
