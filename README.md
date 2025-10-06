@@ -7,8 +7,8 @@
 🎓 Information Systems for Business student @ Universitas Ciputra | Apple Developer Academy 2025 Cohort  
 
 💻 Developer and community builder crafting my version of the digital world one project at a time.  
-🌍 From apps to games, all projects are built from the ground up — ideation → design → solving real-world problems.  
-☕ Outside of coding, I organize events, Talk alot🎉, and brew tea while dreaming up my next big idea.  
+🌍 From apps to games, all projects are built from the ground up — ideation → design → Execution.  
+☕ Outside of coding, I Project Manage, organize events, Talk alot🎉, and brew tea while dreaming up my next big idea.  
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### 🎮 Current Projects  
-- 📝 **Complaint Management App** – helping manage and track user complaints  
+- 📝 **Pelican** – helping manage and track user complaints  
 - 🐟 **Fillé** – a SwiftUI fish-cutting game  
 - 🍏 **SwiftUI Experiments** – other fun little iOS projects  
 
