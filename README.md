@@ -29,7 +29,7 @@
 ---
 
 ### 🎮 Current Projects  
-- 📝 **Pelican** – helping manage and track user complaints  
+- 📝 **CatatIn** – a simple financial macbook app that helps service-based micro-business owners track better and act smarter  
 - 🐟 **Fillé** – a SwiftUI fish-cutting game  
 - 🍏 **SwiftUI Experiments** – other fun little iOS projects  
 
