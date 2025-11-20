@@ -35,15 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamKesuma&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKesuma&layout=compact&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WilliamKesuma&theme=radical" height="180em" />
-</p>
-
----
-
 ### 🌐 Connect with Me  
 <a href="https://www.linkedin.com/in/williamskesuma/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
