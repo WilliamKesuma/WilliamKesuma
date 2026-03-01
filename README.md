@@ -14,7 +14,7 @@
 
 ### 🧰 Languages and Tools  
 <p>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-F54A2A?logo=swift&logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/CDK-232F3E?logo=amazon-aws&logoColor=white" alt="CDK" />
