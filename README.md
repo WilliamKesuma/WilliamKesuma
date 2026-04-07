@@ -45,7 +45,7 @@
 | ☁️ **[AWS Gadget Management System](https://github.com/WilliamKesuma/AWS-Gadget-Management-System)** | Full-stack serverless IT asset lifecycle platform built with **AWS CDK**, **Python**, and **React 19**. Covers procurement, AI-powered invoice scanning (Textract), employee assignment, issue tracking, software governance, and disposal — with role-based access, real-time WebSocket notifications, and a complete audit trail. |
 | 🖥️ **[AWS Secure Serverless Command Center](https://github.com/WilliamKesuma/AWS-Secure-Serverless-Command-Center)** | Full-stack serverless administration dashboard built with **AWS CDK**, featuring **Cognito** auth, **Step Functions**, and **OpenSearch**. |
 | 📈 **[Stock Data Analysis](https://github.com/WilliamKesuma/Stock-Data-Analysis)** | Thesis project analyzing historical stock price data for **AAPL, AMZN, GOOGL, MSFT, and NVDA** using **Python** and **Jupyter Notebooks**. Covers data exploration, statistical analysis, time series modeling (ARIMA/SARIMA), trend analysis, and price prediction. |
-| 🍏 **Coding Experiments** | A collection of fun side-projects and Apple Developer Academy explorations. |
+| 🍏 **Coding Experiments** | A collection of fun side-projects. |
 
 ---
 
