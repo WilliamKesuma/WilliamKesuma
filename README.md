@@ -1,6 +1,6 @@
 <div align="Leading">
 
-# William Sanjaya Kesuma
+# 👋 Hi! Im William
 
 **CS @ Universitas Ciputra Surabaya · Apple Developer Academy 2025**
 
