@@ -2,7 +2,7 @@
 
 # 👋 Hi! Im William
 
-**CS @ Universitas Ciputra Surabaya · Apple Developer Academy 2025**
+**CS @ Universitas Ciputra Surabaya**
 
 Multidisciplinary builder based in Indonesia — I work across iOS, AWS cloud, web, and data.<br/>
 I bridge technical depth with business thinking to ship products people actually use.
