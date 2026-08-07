@@ -7,7 +7,7 @@
 Multidisciplinary builder based in Indonesia — I work across iOS, AWS cloud, web, and data.<br/>
 I bridge technical depth with business thinking to ship products people actually use.
 
-`📦 5+ shipped projects` &nbsp;·&nbsp; `🛠️ 3 years building` &nbsp;·&nbsp; `🎓 GPA 3.70 / 4.0`
+`📦 5+ shipped projects` &nbsp;·&nbsp; `🛠️ 3 years building` &nbsp;·&nbsp; `🎓 GPA 3.71 / 4.0`
 
 </div>
 
