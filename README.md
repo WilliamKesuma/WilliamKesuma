@@ -14,13 +14,13 @@ Beyond mobile, I bring full-stack range — AWS serverless architecture and time
 
 ---
 
-## 🔨 Currently Building
+## 🔨Featured Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🏠 **[Menata](https://github.com/WilliamKesuma/Menata)** | Swift · RealityKit · RoomPlan | iOS app for interior designers to scan rooms and arrange 3D furniture models using Object Capture and RealityKit. |
-| 🎵 **[MusicPlayer](https://github.com/WilliamKesuma/MusicPlayerBCA)** | Swift · UIKit · MVVM | Spotify-style music player app built with UIKit and MVVM architecture. |
-| 💌 **[Meet Felicia](https://github.com/WilliamKesuma/Meet-Felicia)** | Swift · SwiftUI | A heartfelt SwiftUI storytelling app pairing music with memories. |
+| 🧾 **[CatatIn](https://github.com/WilliamKesuma/CatatIn)** | <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-F54A2A?logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"/>| MacOS app ull-stack application designed to streamline transaction recording, project budgeting, receipt/PDF parsing, and financial management using automated AI microservices and a native mobile interface. |
+| 🏠 **[Menata](https://github.com/WilliamKesuma/Menata)** | <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/RealityKit-000000?logo=apple&logoColor=white"/>| iOS app for interior designers to scan rooms and arrange 3D furniture models using Object Capture and RealityKit. |
+| 🎵 **[MusicPlayer](https://github.com/WilliamKesuma/MusicPlayerBCA)** | <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-F54A2A?logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-F54A2A?logo=swift&logoColor=white"/>| Spotify-style music player app built with UIKit and MVVM architecture. |
 
 ---
 ## 🚀 Tech Stack
