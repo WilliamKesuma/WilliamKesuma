@@ -2,7 +2,7 @@
 
 # 👋 Hi! Im William
 
-iOS Developer trained through the Apple Developer Academy @ UC Indonesia, focused on building polished, production-ready apps with Swift & SwiftUI.
+Developer trained through the Apple Developer Academy @ UC Indonesia, focused on building polished, production-ready apps with Swift & SwiftUI.
 
 I shipped 5+ apps across iOS, iPadOS, and macOS during the Academy, averaging a 4.8/5 pilot satisfaction score. My favorite build is Menata, which uses RoomPlan, Object Capture, and RealityKit to let interior designers scan and arrange rooms in 3D.
 
